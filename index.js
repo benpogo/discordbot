@@ -35,4 +35,4 @@ bot.on('ready', () => {
 });
 
 
-bot.login('NDU2NDgyOTI5MDk1MjEzMDY3.DgQEBQ.e3Sy-mji-oxoOSJ_URRpQJeIvIE');
+bot.login('botToken');
